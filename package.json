@@ -1,0 +1,17 @@
+{
+  "name": "visualnuts",
+  "version": "1.0.0",
+  "description": "visual nuts tech challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Prezotto, R.",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.4.2"
+  }
+}
