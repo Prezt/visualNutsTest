@@ -1,4 +1,4 @@
-const {solvePrint, printAllNumbersUpToN} = require("../src/prints");
+const {solvePrint, printAllNumbersUpToN} = require("../src/printNumbers");
 
 describe('solvePrint function should return what to print based on a input ', ()=>{
     test('Should return undefined when NaN value is passed', ()=>{
